@@ -1,0 +1,5 @@
+exports.TOKEN = 'NDMyMTQ1OTA0MDIwMjI2MDQ4.DbItmQ.kadSCSxfxRcaO0KMPgYFtHxuzL8';
+
+exports.PREFIX = 'm!';
+
+exports.GOOGLE_API_KEY = 'AIzaSyAxGHB51bK5Em3CjPYLcDYwpEmXWOev1CQ';
